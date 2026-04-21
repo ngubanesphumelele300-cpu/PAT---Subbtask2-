@@ -1,0 +1,5 @@
+     cout << "Oil is not ready for frying!\n";
+    }
+
+    return 0;
+}
