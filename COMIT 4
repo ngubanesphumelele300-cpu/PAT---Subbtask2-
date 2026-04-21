@@ -1,0 +1,6 @@
+cout << "Enter third temperature: ";
+    cin >> t3;
+
+    if (t3 >= 150 && t3 <= 190) {
+        cout << "You may start frying the Magwinyas.\n";
+    } else {
